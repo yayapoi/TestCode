@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Shanxing.qml</file>
+        <file>img.png</file>
+        <file>center.png</file>
+        <file>down.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>LoaderSturdy.qml</file>
+        <file>Btn.qml</file>
+        <file>MaskWin.qml</file>
+    </qresource>
+</RCC>
